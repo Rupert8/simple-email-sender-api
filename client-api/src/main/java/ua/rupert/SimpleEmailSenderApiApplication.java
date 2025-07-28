@@ -1,4 +1,4 @@
-package ua.rupert.ses;
+package ua.rupert;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
