@@ -13,4 +13,4 @@ spring:
       hibernate:
         format_sql: true
         show_sql: true
-        default_schema: simple_email_sender
+        default_schema: public

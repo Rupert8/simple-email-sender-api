@@ -2,7 +2,7 @@
  * Submodules import sample
  */
 dependencies {
-//    implementation project(':maycode-miscellaneous:data')
+    implementation project(':miscellaneous:data')
     implementation project(':miscellaneous:store')
 }
 

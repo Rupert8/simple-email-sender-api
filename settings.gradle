@@ -5,4 +5,6 @@ include 'worker'
 include 'miscellaneous'
 include 'miscellaneous:store'
 findProject(':miscellaneous:store')?.name = 'store'
+include 'miscellaneous:data'
+findProject(':miscellaneous:data')?.name = 'data'
 
